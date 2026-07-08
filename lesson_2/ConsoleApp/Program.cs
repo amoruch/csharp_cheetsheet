@@ -2,12 +2,9 @@
 
 // basic architecture and working with console
 
-namespace ConsoleApp
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace ConsoleApp {
+    class Program {
+        static void Main(string[] args) {
             Console.WriteLine("Hello World!");
 
             var a = Console.ReadLine();
