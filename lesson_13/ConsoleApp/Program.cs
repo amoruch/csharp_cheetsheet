@@ -1,5 +1,7 @@
 ﻿using System;
 
+// classes: virtual, override
+
 namespace ConsoleApp {
     class Program {
         static void Main(string[] args) {
