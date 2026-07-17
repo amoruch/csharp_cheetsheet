@@ -36,12 +36,17 @@ namespace ConsoleApp {
             }
             catch (IOException ex) {
                 Console.WriteLine($"Ошибка ввода-вывода: {ex.Message}"); // amother interesting way of string formating
+                throw; // отправляет ошибку дальше, обычно чтобы можно было получить полный лог ошибки
             }
             */
 
             Console.WriteLine($"goida {123}");
 
             // Console.ReadKey();
+        }
+
+        public static void ThrowFunction(int age) {
+            throw new ArgumentOutOfRangeException(nameof(age), "aboba goida goooal");
         }
     }
 }
