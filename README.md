@@ -2,7 +2,8 @@
 
 Репозиторий, в котором я храню практический код с уроков по C#.
 
-**Основано на курсе:** [Уроки C# для начинающих (YouTube плейлист)](https://youtube.com/playlist?list=PLDyJYA6aTY1laYPs6iS-SrYl9DZLVCUKr&si=OnqAs22f96erXE5t)
+**Основано на курсах:** [Уроки C# для начинающих (YouTube плейлист)](https://youtube.com/playlist?list=PLDyJYA6aTY1laYPs6iS-SrYl9DZLVCUKr&si=OnqAs22f96erXE5t)
+и [Advanced C# Programming Course](https://www.youtube.com/watch?v=YT8s-90oDC0)
 
 ## Шпаргалка по языку
 Весь пройденный материал я структурировал в отдельном документе:
